@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/WhatsApp%20Image%202026-08-07%20at%2000.46.06.jpeg" width="180" alt="Ishan Kanchan">
+<img src="./WhatsApp%20Image%202026-08-07%20at%2000.46.06.jpeg" width="180" alt="Ishan Kanchan">
 
 # ⚡ ISHAN KANCHAN ⚡
 
