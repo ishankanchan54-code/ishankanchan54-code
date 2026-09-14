@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="./WhatsApp%20Image%202026-08-07%20at%2000.46.06.jpeg" width="180" alt="Ishan Kanchan">
+
+
 # ⚡ ISHAN KANCHAN ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;C%2B%2B+%7C+DSA+%7C+OOP;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug;Turning+Ideas+Into+Code;while(alive)+%7B+learn();+build();+repeat();+%7D">
