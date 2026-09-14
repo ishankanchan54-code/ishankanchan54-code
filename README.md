@@ -1,9 +1,6 @@
 <div align="center">
 
 <!-- ========================= HERO ========================= -->
-
-<img src="./assets/ishan.jpg" width="180" alt="Ishan Kanchan">
-
 # <span>ISHAN</span> <span>KANCHAN</span>
 
 ### `SOFTWARE ENGINEERING STUDENT @ MIT AOE`
