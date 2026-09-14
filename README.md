@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Image.png"
+<img src="image"
   width="850"
   alt="Tech Coding Banner">
 
