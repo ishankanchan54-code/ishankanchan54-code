@@ -27,7 +27,7 @@
 │  $ whoami                                                    │
 │                                                              │
 │  Ishan Kanchan                                               │
-│  Software Engineering Student @ MIT AOE                     │
+│  Software Engineering Student @ MIT AOE                      │
 │                                                              │
 │  $ location                                                  │
 │                                                              │
@@ -35,7 +35,7 @@
 │                                                              │
 │  $ current_status                                            │
 │                                                              │
-│  Learning → Building → Debugging → Improving                │
+│  Learning → Building → Debugging → Improving                 │
 │                                                              │
 │  $ mission                                                   │
 │                                                              │
