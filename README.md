@@ -1,48 +1,36 @@
 <div align="center">
 
-<!-- ========================= HERO ========================= -->
-# <span>ISHAN</span> <span>KANCHAN</span>
+# 👋 Hey, I'm Ishan Kanchan
 
-### `SOFTWARE ENGINEERING STUDENT @ MIT AOE`
+### `while(alive) { learn(); build(); debug(); repeat(); }`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Software+Engineering+Student;C%2B%2B+%7C+DSA+%7C+OOP;Building+%7C+Breaking+%7C+Debugging;Turning+Ideas+Into+Code;while(alive)+%7B+learn();+build();+repeat();+%7D" alt="Typing animation">
-
-<br>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-22D3EE?style=for-the-badge&labelColor=0D1117">
-
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-A855F7?style=for-the-badge&labelColor=0D1117">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;C%2B%2B+%7C+DSA+%7C+OOP;Building+Real-World+Projects;Learning+Something+New+Every+Day" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<!-- ========================= TERMINAL ========================= -->
+## 👨‍💻 About Me
 
-## `>_ SYSTEM.INIT`
+I'm **Ishan Kanchan**, a second-year **Software Engineering student at MIT AOE**.
+
+I enjoy turning ideas into code, solving problems, and understanding how things actually work behind the scenes.
+
+Currently focusing on:
+
+- 💻 C++ & Object-Oriented Programming
+- 🧠 Data Structures & Algorithms
+- 🔧 Building real-world software projects
+- 🌱 Improving my development skills
+- 🚀 Exploring new technologies
+
+---
+
+## ⚡ Currently Building
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  $ whoami                                                    │
-│                                                              │
-│  Ishan Kanchan                                               │
-│  Software Engineering Student @ MIT AOE                      │
-│                                                              │
-│  $ location                                                  │
-│                                                              │
-│  Pune, India                                                 │
-│                                                              │
-│  $ current_status                                            │
-│                                                              │
-│  Learning → Building → Debugging → Improving                 │
-│                                                              │
-│  $ mission                                                   │
-│                                                              │
-│  Turn problems into systems and ideas into code.             │
-│                                                              │
-│  $ system                                                    │
-│                                                              │
-│  ONLINE ████████████████████████████████████ 100%            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+C++          █████████████████░░░   85%
+OOP          ██████████████████░░   90%
+DSA          ██████████████░░░░░░   70%
+Git/GitHub   ████████████░░░░░░░░   60%
+Web Dev      ████████░░░░░░░░░░░░   40%
